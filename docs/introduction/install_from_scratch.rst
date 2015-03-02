@@ -90,7 +90,7 @@ mode to add and edit content.
 Try to switch between ``Live`` and ``Draft`` view, between ``Structure`` and
 ``Content`` mode, add plugins, move them around and delete them again.
 
-To add a *Text* or or other plugin elements to a placeholder:
+To add a *Text* or other plugin elements to a placeholder:
 
 #.  switch to ``Structure`` mode
 #.  select the menu icon on the placeholder's title bar
